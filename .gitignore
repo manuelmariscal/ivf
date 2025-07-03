@@ -4,3 +4,5 @@ pycache
 venv
 *.csv
 data/synthetic_cycles.csv
+data/e2.db
+models/peak_day_model.pkl
