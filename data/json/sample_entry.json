@@ -1,0 +1,21 @@
+{
+  "stimDay": 4,
+  "e2": 100,
+  "visit": 1,
+  "follicle6_7": 1,
+  "follicle8_9": 2,
+  "follicle10_11": 0,
+  "follicle12_13": 0,
+  "follicle14_15": 0,
+  "follicle16_17": 0,
+  "follicle18_19": 0,
+  "follicle20_21": 0,
+  "follicle22_23": 0,
+  "follicleGt23": 0,
+  "follicleLt7": 1,
+  "follicle8_11": 3,
+  "follicle12_17": 1,
+  "follicle18_21": 0,
+  "follicleGt22": 0,
+  "age": 33
+}
