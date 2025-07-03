@@ -1,0 +1,6 @@
+numpy
+polars>=0.20
+matplotlib
+scikit-learn
+colorama
+pandas

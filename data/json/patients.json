@@ -1,0 +1,27 @@
+[
+  {                     
+    "patient_id": "P-001-normal",
+    "s1_day": 3,  "s1_fsh": 7.4,  "s1_lh": 4.3,  "s1_e2": 58,  "s1_pg": 0.30,
+    "s2_day": 7,  "s2_fsh": 7.9,  "s2_lh": 5.2,  "s2_e2": 240, "s2_pg": 0.36
+  },
+  {                    
+    "patient_id": "P-002-normal-alto",
+    "s1_day": 4,  "s1_fsh": 6.6,  "s1_lh": 4.7,  "s1_e2": 72,  "s1_pg": 0.25,
+    "s2_day": 8,  "s2_fsh": 8.1,  "s2_lh": 6.0,  "s2_e2": 315, "s2_pg": 0.38
+  },
+  {                     
+    "patient_id": "P-003-otlier-e2-plano-bajareserva",
+    "s1_day": 3,  "s1_fsh": 11.2, "s1_lh": 4.1,  "s1_e2": 28,  "s1_pg": 0.30,
+    "s2_day": 7,  "s2_fsh": 12.0, "s2_lh": 4.6,  "s2_e2": 62,  "s2_pg": 0.33
+  },
+  {                     
+    "patient_id": "P-004-outlier-lh-surge-precoz",
+    "s1_day": 2,  "s1_fsh": 6.9,  "s1_lh": 8.2,  "s1_e2": 105, "s1_pg": 0.34,
+    "s2_day": 6,  "s2_fsh": 7.8,  "s2_lh": 18.5, "s2_e2": 455, "s2_pg": 0.47
+  },
+  {                     
+    "patient_id": "P-005-outlier-e2-extremadamente-alto",
+    "s1_day": 2,  "s1_fsh": 7.3,  "s1_lh": 5.0,  "s1_e2": 115, "s1_pg": 0.28,
+    "s2_day": 6,  "s2_fsh": 8.5,  "s2_lh": 6.2,  "s2_e2": 610, "s2_pg": 0.44
+  }
+]
